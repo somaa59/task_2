@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699909656 source:d:\data\4th\section-elgendy\task2\task-2\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
